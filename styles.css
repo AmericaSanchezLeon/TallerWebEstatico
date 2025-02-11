@@ -1,6 +1,7 @@
 :root {
   /* here variables goes */
   --color-primary: #cb5c47;
+  --color-secondary: #8558C8;
 }
 
 /* importar bootstrap */
